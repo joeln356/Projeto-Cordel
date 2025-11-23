@@ -1,7 +1,3 @@
-<div align="center">
-  
-  ** 🌐 Acesse o projeto online:**  
-  👉 **https://teuuser.github.io/teu-repo/**
 
-
-</div>
+  **🌐 Acesse o projeto online:**  
+  👉 **https://joeln356.github.io/Projeto-Cordel/**
