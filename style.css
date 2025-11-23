@@ -52,7 +52,7 @@ header{
     background-color: black;
     text-align: center;
     margin: -10px;
-    font-size: 1.5em;
+    font-size: 2em;
 }
 header h1{
     font-variant: small-caps;
@@ -71,7 +71,7 @@ header p{
 }
 main{
     font-family: "Sriracha", cursive;
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 footer{
@@ -81,6 +81,7 @@ footer{
     color: white;
     margin: -10px;
     text-align: center;
+    
 }
 footer p {
     margin: 0px;
