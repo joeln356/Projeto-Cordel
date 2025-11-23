@@ -10,7 +10,7 @@
     background-position: center center;
     background-size: cover;
     margin: 0px -10px 0px -10px;
-    height: 500px;
+    height: 700px;
     position: relative;
 }
 .ladybug  p {
@@ -30,7 +30,7 @@
     background-size: center center;
     background-size: cover;
     margin: 0px -10px 0px -10px;
-    height: 500px;
+    height: 700px;
     position: relative;
 }
 .folha  p {
@@ -81,7 +81,7 @@ footer{
     color: white;
     margin: -10px;
     text-align: center;
-    
+
 }
 footer p {
     margin: 0px;
