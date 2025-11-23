@@ -6,7 +6,7 @@
     padding: 20px;
 }
 .ladybug{
-    background-image: url(../imagens/background001.jpg);
+    background-image: url(imagens/background001.jpg);
     background-position: center center;
     background-size: cover;
     margin: 0px -10px 0px -10px;
@@ -26,7 +26,7 @@
 
 }
 .folha{
-    background-image: url(../imagens/background002.jpg);
+    background-image: url(imagens/background002.jpg);
     background-size: center center;
     background-size: cover;
     margin: 0px -10px 0px -10px;
